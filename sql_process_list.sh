@@ -1,5 +1,5 @@
 #!/bin/bash
-#@lroehrs / Profihost AG 2020
+#@lroehrs / Profihost AG 2021
 
 #-CONFIG-#
 
@@ -10,7 +10,7 @@ pw="password"
 #optional
 db=""
 host=""
-port="3306"
+port="3307"
 log_file="" #if set, adapt find
 log_path=""
 
